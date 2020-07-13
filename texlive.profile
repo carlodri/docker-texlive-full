@@ -1,5 +1,5 @@
 selected_scheme scheme-full
-TEXDIR /usr/local/texlive/2018
+TEXDIR /usr/local/texlive/2020
 TEXMFCONFIG ~/.texlive2018/texmf-config
 TEXMFHOME ~/texmf
 TEXMFLOCAL /usr/local/texlive/texmf-local
